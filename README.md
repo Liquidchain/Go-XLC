@@ -28,7 +28,7 @@ Keep geth running
 
 ```tmux new -s node```
 
-`Testnet`
+Testnet
 
 ```./geth init xlc_testnet.json --datadir ./data```
 
