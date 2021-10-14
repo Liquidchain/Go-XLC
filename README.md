@@ -1,5 +1,7 @@
 ## Official Golang implementation of the Liquidchain Network.
 
+Liquidchain is a layer-1 blockchain powered by Proof of Authority (PoA) consensus mechanism compatible to Ethereum Virtual Machine (EVM). It is specially designed for liquidity providers and DeFi users. Unlike Ethereum, Liquidchain is secured by a group of trusted validators who utilizes PoA algorithm, which is more efficient than Ethereum’s Proof of Work (PoW). Validators generate blocks and earn from the txn fees. Liquidchain is scalable, extremely cheaper and faster L1 blockchain.
+
 Website: https://liquidchain.net | 
 Docs: https://docs.liquidchain.net
 
