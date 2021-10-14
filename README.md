@@ -1,6 +1,6 @@
 ## Official Golang implementation of the Liquidchain Network.
 
-Website: https://liquidchain.net
+Website: https://liquidchain.net | 
 Docs: https://docs.liquidchain.net
 
 
