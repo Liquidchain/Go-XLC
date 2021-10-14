@@ -24,7 +24,7 @@ make all
 
 ## Running a Node
 
-`Keep geth running`
+Keep geth running
 
 ```tmux new -s node```
 
